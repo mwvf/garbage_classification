@@ -209,14 +209,3 @@ print("val_list.txt 生成成功！")
 # 六、总结与升华
 
 接近到项目的尾声时，需要进行主题的升华，也就是说明本项目的亮点，以及不足之处，后续应该如何改进等
-
-# 七、个人总结
-
-该部分也是项目最后一阶段，需要作者介绍自己，以及作者的兴趣方向等，最后在下面附上作者的个人主页链接
-
-提交链接
-aistudio链接：[https://aistudio.baidu.com/aistudio/projectdetail/3526792?contributionType=1](https://aistudio.baidu.com/aistudio/projectdetail/3526792?contributionType=1)
-
-github链接：[https://github.com/mwvf/garbage_classification](https://github.com/mwvf/garbage_classification)
-
-gitee链接：[https://gitee.com/mwvf/garbage_classification](https://gitee.com/mwvf/garbage_classification)
