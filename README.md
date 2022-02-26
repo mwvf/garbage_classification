@@ -37,14 +37,6 @@ from matplotlib import pyplot as plt
 plt.imshow(cv2.imread("train/c/img_1023.jpg")[:,:,::-1])
 ```
 
-
-
-
-    <matplotlib.image.AxesImage at 0x7fbab8c7c8d0>
-
-
-
-
 ![png](output_6_1.png)
 
 
