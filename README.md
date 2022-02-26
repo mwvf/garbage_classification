@@ -9,7 +9,7 @@
 伴随着我国城市化生活的进程加快，居民生活水平的不断提升，生活垃圾产生量保持稳定増长的趋势，近年来我国已成为世界上生活垃圾处理压力最大的国家之一。垃圾分类处理作为垃圾处理的重要手段,对于进一步提高垃圾的资源化利用效率,降低垃圾处理成本和处理难度具有重要作用.
 
 
-<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/1f8c05a1a54c457baf5c2a4083a4a228ffa8a650f83b436b8e9eb42bb28d7dab" width = "40%" height = "40%" />
+<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/1f8c05a1a54c457baf5c2a4083a4a228ffa8a650f83b436b8e9eb42bb28d7dab" width = "30%" height = "30%" />
 
 同时，垃圾分类是保护环境，改善人居环境、促进城市更加精细化管理、保障可持续发展的重要举措。反映一个人，乃至一座城市的生态素养和文明程度，最重要的就是垃圾分类。通过对于垃圾的分类可以有效地实现资源的再利用与合理处理分类垃圾。通过垃圾分类方法，帮助人们有效实现对日常垃圾的分类处理，极大地降低城市垃圾分类监管部门的人力物力财力。
 
@@ -55,11 +55,11 @@ plt.imshow(cv2.imread("train/c/img_1023.jpg")[:,:,::-1])
 
 在同等复杂度下，比ShuffleNet和MobileNetv2更准确。
 
-<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/621c46ccbed24449af3c2175e3df0dfbe724435a455141918597a8950699af93" width = "60%" height = "60%" />
+<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/621c46ccbed24449af3c2175e3df0dfbe724435a455141918597a8950699af93" width = "40%" height = "40%" />
 
 **ShuffleNetv1与ShuffleNetv2的比较**
 
-<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/0ed5168427eb45a7bdf011eb5a1f70cf326796fff401452795dc9c8080181347" width = "60%" height = "60%" />
+<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/0ed5168427eb45a7bdf011eb5a1f70cf326796fff401452795dc9c8080181347" width = "40%" height = "40%" />
 
 (a): the basic ShuffleNet-V1 unit; (b) the ShuffleNet-V1 unit for spatial down sampling (2×); (c) ShuffleNet-V2 basic unit; (d) ShuffleNet-V2 unit for spatial down sampling (2×)
 
@@ -67,7 +67,7 @@ plt.imshow(cv2.imread("train/c/img_1023.jpg")[:,:,::-1])
 
 不同stage的输出通道倍数关系和前面描述的吻合，每个stage都是由Figure3（c）（d）所示的block组成，block的具体数量对于Figure5中的Repeat列。 
 
-<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/fecd78f6aa7b4066bd213c30a91bcc5af4fc1fc5129646ee937e5f77f4e6e6d8" width = "60%" height = "60%" />
+<img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/fecd78f6aa7b4066bd213c30a91bcc5af4fc1fc5129646ee937e5f77f4e6e6d8" width = "40%" height = "40%" />
 
 # 四、模型训练
 
