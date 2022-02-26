@@ -1,6 +1,6 @@
 # garbage_classification
 
-# 作业四：垃圾分类项目
+# 垃圾分类项目
 
 
 # 一、项目背景介绍
